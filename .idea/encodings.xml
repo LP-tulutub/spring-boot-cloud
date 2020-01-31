@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-client-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-rabbitmq-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-direct-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-direct-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-consumer-Interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-consumer-Interface2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-consumer-Interface3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-consumer-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-producter-Interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-stream-producter-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-ack-drect-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-ack-drect-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-durable-drect-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-durable-drect-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-fanout-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-fanout-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-topic-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabiitmq-topic-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-feigen-htstrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-feigen-htstrix-factory-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-feign-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-feignconfig-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-hystrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-ribbon-consummer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-ribbon-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-ribbon-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpi-geteway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpi-geteway-zuul-fallback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpi-geteway-zuul-filter" charset="UTF-8" />
+  </component>
+</project>

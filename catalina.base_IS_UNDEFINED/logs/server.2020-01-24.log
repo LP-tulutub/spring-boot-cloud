@@ -1,0 +1,341 @@
+2020-01-24 09:26:40.378 [main] INFO  com.lp.App - Starting App on PC-i7nv2070 with PID 8644 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 09:26:40.380 [main] INFO  com.lp.App - No active profile set, falling back to default profiles: default
+2020-01-24 09:26:40.898 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 09:26:40.904 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 09:26:40.905 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 09:26:40.905 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 09:26:40.954 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 09:26:40.954 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 548 ms
+2020-01-24 09:26:41.050 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 09:26:41.132 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 09:26:41.145 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 09:26:41.146 [main] INFO  com.lp.App - Started App in 0.996 seconds (JVM running for 1.696)
+2020-01-24 10:28:22.703 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 3568 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:28:22.704 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:28:23.288 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:28:23.293 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:28:23.293 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:28:23.293 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:28:23.342 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:28:23.342 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 615 ms
+2020-01-24 10:28:23.495 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:28:23.605 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-24 10:28:23.623 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:28:23.634 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:28:23.636 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.09 seconds (JVM running for 1.532)
+2020-01-24 10:28:23.872 [RMI TCP Connection(3)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:28:23.872 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:28:23.875 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:30:10.922 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 8044 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:30:10.924 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:30:11.528 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:30:11.533 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:30:11.533 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:30:11.533 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:30:11.585 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:30:11.585 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 636 ms
+2020-01-24 10:30:11.748 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:30:11.856 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-24 10:30:11.876 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:30:11.887 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:30:11.889 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.124 seconds (JVM running for 1.57)
+2020-01-24 10:30:12.063 [RMI TCP Connection(1)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:30:12.063 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:30:12.066 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:33:22.722 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 10972 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:33:22.724 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:33:23.296 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:33:23.300 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:33:23.301 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:33:23.301 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:33:23.342 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:33:23.342 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 595 ms
+2020-01-24 10:33:23.506 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:33:23.623 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2020-01-24 10:33:23.647 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:33:23.658 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:33:23.660 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.096 seconds (JVM running for 1.527)
+2020-01-24 10:33:23.834 [RMI TCP Connection(3)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:33:23.834 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:33:23.837 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:42:37.028 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 10596 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:42:37.030 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:42:37.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:42:37.644 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:42:37.645 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:42:37.645 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:42:37.693 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:42:37.693 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 638 ms
+2020-01-24 10:42:37.850 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:42:37.960 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 11 endpoint(s) beneath base path '/monitor'
+2020-01-24 10:42:37.981 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:42:37.992 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:42:37.994 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.129 seconds (JVM running for 1.563)
+2020-01-24 10:42:38.578 [RMI TCP Connection(1)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:42:38.578 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:42:38.581 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:43:48.374 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 8644 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:43:48.375 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:43:48.950 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:43:48.955 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:43:48.956 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:43:48.956 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:43:49.005 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:43:49.005 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 607 ms
+2020-01-24 10:43:49.160 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:43:49.269 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 12 endpoint(s) beneath base path '/monitor'
+2020-01-24 10:43:49.290 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:43:49.301 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:43:49.303 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.09 seconds (JVM running for 1.517)
+2020-01-24 10:43:49.421 [RMI TCP Connection(1)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:43:49.421 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:43:49.424 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:45:58.918 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 12356 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:45:58.920 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:45:59.545 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:45:59.550 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:45:59.551 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:45:59.551 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:45:59.603 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:45:59.603 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 660 ms
+2020-01-24 10:45:59.767 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:45:59.880 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 11 endpoint(s) beneath base path '/monitor'
+2020-01-24 10:45:59.901 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:45:59.912 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:45:59.914 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.167 seconds (JVM running for 1.602)
+2020-01-24 10:45:59.953 [RMI TCP Connection(1)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:45:59.953 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:45:59.956 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:49:28.869 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 13620 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:49:28.870 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:49:29.456 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:49:29.461 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:49:29.461 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:49:29.461 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:49:29.512 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:49:29.512 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 619 ms
+2020-01-24 10:49:29.669 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:49:29.780 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 11 endpoint(s) beneath base path '/monitor'
+2020-01-24 10:49:29.801 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:49:29.812 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:49:29.814 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.104 seconds (JVM running for 1.539)
+2020-01-24 10:49:29.982 [RMI TCP Connection(2)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:49:29.983 [RMI TCP Connection(2)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:49:29.986 [RMI TCP Connection(2)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 10:50:16.033 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 5356 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 10:50:16.035 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 10:50:16.613 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 10:50:16.617 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:50:16.618 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 10:50:16.618 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 10:50:16.668 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 10:50:16.668 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 610 ms
+2020-01-24 10:50:16.830 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 10:50:16.948 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 11 endpoint(s) beneath base path '/actuator'
+2020-01-24 10:50:16.971 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 10:50:16.982 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 10:50:16.984 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.115 seconds (JVM running for 1.566)
+2020-01-24 10:50:17.207 [RMI TCP Connection(4)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 10:50:17.207 [RMI TCP Connection(4)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 10:50:17.210 [RMI TCP Connection(4)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 13:51:43.792 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 14920 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 13:51:43.794 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 13:51:44.436 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 13:51:44.440 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 13:51:44.441 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 13:51:44.441 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 13:51:44.483 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 13:51:44.483 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 664 ms
+2020-01-24 13:51:44.578 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2020-01-24 13:51:44.661 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 13:51:44.765 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2020-01-24 13:51:44.808 [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 456d1a24-1126-4a94-9d7b-2a7822617e8c
+
+2020-01-24 13:51:44.881 [main] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@716e431d, org.springframework.security.web.context.SecurityContextPersistenceFilter@3a08078c, org.springframework.security.web.header.HeaderWriterFilter@295bf2a, org.springframework.security.web.authentication.logout.LogoutFilter@475646d4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@29f85fe1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4cfa8227, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7e744f43, org.springframework.security.web.session.SessionManagementFilter@4487c0c2, org.springframework.security.web.access.ExceptionTranslationFilter@760245e1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2b10ace9]
+2020-01-24 13:51:44.889 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 12 endpoint(s) beneath base path '/actuator'
+2020-01-24 13:51:44.913 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 13:51:44.925 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 13:51:44.926 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.303 seconds (JVM running for 1.752)
+2020-01-24 13:51:45.360 [RMI TCP Connection(1)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 13:51:45.360 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 13:51:45.363 [RMI TCP Connection(1)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 13:52:12.230 [registrationTask1] INFO  d.c.b.a.client.registration.ApplicationRegistrator - Application registered itself as e4b6a308e26e
+2020-01-24 13:54:06.823 [http-nio-8080-exec-8] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+2020-01-24 14:00:46.976 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 15016 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 14:00:46.978 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 14:00:47.622 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 14:00:47.627 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 14:00:47.627 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 14:00:47.627 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 14:00:47.670 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 14:00:47.671 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 663 ms
+2020-01-24 14:00:47.768 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2020-01-24 14:00:47.843 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 14:00:47.946 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2020-01-24 14:00:47.998 [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: c12118ae-7e13-49e1-b4c5-03b2b880ee2f
+
+2020-01-24 14:00:48.077 [main] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@10fda3d0, org.springframework.security.web.context.SecurityContextPersistenceFilter@690bc15e, org.springframework.security.web.header.HeaderWriterFilter@45c2e0a6, org.springframework.security.web.csrf.CsrfFilter@5f117b3d, org.springframework.security.web.authentication.logout.LogoutFilter@7dd611c8, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1a0b5323, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6b69761b, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2123064f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2016f509, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@475646d4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1b5c3e5f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4f6b687e, org.springframework.security.web.session.SessionManagementFilter@a7ad6e5, org.springframework.security.web.access.ExceptionTranslationFilter@20576557, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@64fe9da7]
+2020-01-24 14:00:48.087 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 12 endpoint(s) beneath base path '/actuator'
+2020-01-24 14:00:48.111 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 14:00:48.123 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 14:00:48.124 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.309 seconds (JVM running for 1.75)
+2020-01-24 14:00:48.468 [RMI TCP Connection(3)-192.168.8.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 14:00:48.468 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 14:00:48.471 [RMI TCP Connection(3)-192.168.8.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-24 14:01:06.332 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+2020-01-24 14:01:15.180 [registrationTask1] INFO  d.c.b.a.client.registration.ApplicationRegistrator - Application registered itself as e4b6a308e26e
+2020-01-24 14:02:45.944 [main] INFO  c.l.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on PC-i7nv2070 with PID 7848 (D:\Users\Administrator\IdeaProjects\spring-boot-cloud\spring-boot-demo\target\classes started by Administrator in D:\Users\Administrator\IdeaProjects\spring-boot-cloud)
+2020-01-24 14:02:45.946 [main] INFO  c.l.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2020-01-24 14:02:46.602 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-01-24 14:02:46.606 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-24 14:02:46.607 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-01-24 14:02:46.607 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-24 14:02:46.649 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-01-24 14:02:46.649 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 676 ms
+2020-01-24 14:02:46.745 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2020-01-24 14:02:46.828 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-24 14:02:46.927 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2020-01-24 14:02:46.968 [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 8af0e550-34b0-4874-96cc-46b0348d3fcc
+
+2020-01-24 14:02:47.040 [main] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@126f1ba8, org.springframework.security.web.context.SecurityContextPersistenceFilter@6f139fc9, org.springframework.security.web.header.HeaderWriterFilter@4cb40e3b, org.springframework.security.web.authentication.logout.LogoutFilter@692e028d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@19382338, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@76889e60, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3a08078c, org.springframework.security.web.session.SessionManagementFilter@7187bac9, org.springframework.security.web.access.ExceptionTranslationFilter@383864d5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@bbf9e07]
+2020-01-24 14:02:47.048 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 12 endpoint(s) beneath base path '/actuator'
+2020-01-24 14:02:47.072 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-24 14:02:47.083 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-24 14:02:47.085 [main] INFO  c.l.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 1.302 seconds (JVM running for 1.739)
+2020-01-24 14:02:47.184 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-24 14:02:47.184 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-24 14:02:47.186 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-01-24 14:03:14.151 [registrationTask1] INFO  d.c.b.a.client.registration.ApplicationRegistrator - Application registered itself as e4b6a308e26e
+2020-01-24 14:05:43.900 [http-nio-8080-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+2020-01-24 14:10:20.754 [http-nio-8080-exec-8] DEBUG o.s.w.s.m.m.annotation.HttpEntityMethodProcessor - No match for [application/vnd.spring-boot.actuator.v2+json, application/vnd.spring-boot.actuator.v1+json, application/json], supported: []
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.springframework.web.servlet.DispatcherServlet - Completed 204 NO_CONTENT
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG o.s.security.web.access.ExceptionTranslationFilter - Chain processed normally
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG o.s.security.web.header.writers.HstsHeaderWriter - Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@7b95e283
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession.
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.apache.tomcat.util.net.SocketWrapperBase - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@7fedada1:org.apache.tomcat.util.net.NioChannel@1faeddc6:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55849]], Read from buffer: [0]
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.apache.tomcat.util.net.NioEndpoint - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@7fedada1:org.apache.tomcat.util.net.NioChannel@1faeddc6:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55849]], Read direct from socket: [0]
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.apache.coyote.http11.Http11Processor - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@7fedada1:org.apache.tomcat.util.net.NioChannel@1faeddc6:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55849]], Status in: [OPEN_READ], State out: [OPEN]
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.apache.coyote.http11.Http11NioProtocol - Pushed Processor [org.apache.coyote.http11.Http11Processor@3efe76fd]
+2020-01-24 14:10:20.755 [http-nio-8080-exec-8] DEBUG org.apache.tomcat.util.net.NioEndpoint - Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@7fedada1:org.apache.tomcat.util.net.NioChannel@1faeddc6:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55849]]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11NioProtocol - Processing socket [org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]] with status [OPEN_READ]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11NioProtocol - Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11NioProtocol - Popped processor [org.apache.coyote.http11.Http11Processor@3efe76fd] from cache
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.net.SocketWrapperBase - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]], Read from buffer: [0]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.net.NioEndpoint - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]], Read direct from socket: [466]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11InputBuffer - Received [GET /actuator/loggers HTTP/1.1
+host: PC-i7nv2070:8080
+referer: http://pc-i7nv2070:9090/instances/e4b6a308e26e/loggers
+accept-language: zh-CN,zh;q=0.9
+x-requested-with: XMLHttpRequest
+accept-encoding: gzip, deflate
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+accept: application/vnd.spring-boot.actuator.v2+json,application/vnd.spring-boot.actuator.v1+json,application/json
+
+]
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG o.apache.catalina.authenticator.AuthenticatorBase - Security checking request GET /actuator/loggers
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG org.apache.catalina.realm.RealmBase -   No applicable constraints defined
+2020-01-24 14:10:20.760 [http-nio-8080-exec-10] DEBUG o.apache.catalina.authenticator.AuthenticatorBase - Not subject to any constraint
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 1 of 10 in additional filter chain; firing Filter: 'WebAsyncManagerIntegrationFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 2 of 10 in additional filter chain; firing Filter: 'SecurityContextPersistenceFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - No HttpSession currently exists
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - No SecurityContext was available from the HttpSession: null. A new one will be created.
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 3 of 10 in additional filter chain; firing Filter: 'HeaderWriterFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 4 of 10 in additional filter chain; firing Filter: 'LogoutFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', GET]
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Checking match of request : '/actuator/loggers'; against '/logout'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', POST]
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'GET /actuator/loggers' doesn't match 'POST /logout'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', PUT]
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'GET /actuator/loggers' doesn't match 'PUT /logout'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', DELETE]
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'GET /actuator/loggers' doesn't match 'DELETE /logout'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - No matches found
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 5 of 10 in additional filter chain; firing Filter: 'RequestCacheAwareFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.web.savedrequest.HttpSessionRequestCache - saved request doesn't match
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 6 of 10 in additional filter chain; firing Filter: 'SecurityContextHolderAwareRequestFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 7 of 10 in additional filter chain; firing Filter: 'AnonymousAuthenticationFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Populated SecurityContextHolder with anonymous token: 'org.springframework.security.authentication.AnonymousAuthenticationToken@17848358: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@0: RemoteIpAddress: 192.168.8.1; SessionId: null; Granted Authorities: ROLE_ANONYMOUS'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 8 of 10 in additional filter chain; firing Filter: 'SessionManagementFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 9 of 10 in additional filter chain; firing Filter: 'ExceptionTranslationFilter'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers at position 10 of 10 in additional filter chain; firing Filter: 'FilterSecurityInterceptor'
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Secure object: FilterInvocation: URL: /actuator/loggers; Attributes: [permitAll]
+2020-01-24 14:10:20.761 [http-nio-8080-exec-10] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Previously Authenticated: org.springframework.security.authentication.AnonymousAuthenticationToken@17848358: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@0: RemoteIpAddress: 192.168.8.1; SessionId: null; Granted Authorities: ROLE_ANONYMOUS
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG o.s.security.access.vote.AffirmativeBased - Voter: org.springframework.security.web.access.expression.WebExpressionVoter@20e7746, returned: 1
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Authorization successful
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - RunAsManager did not change Authentication object
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers reached end of additional filter chain; proceeding with original chain
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.http.Parameters - Set encoding to UTF-8
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG org.springframework.web.servlet.DispatcherServlet - GET "/actuator/loggers", parameters={}
+2020-01-24 14:10:20.762 [http-nio-8080-exec-10] DEBUG o.s.b.a.e.web.servlet.WebMvcEndpointHandlerMapping - Mapped to Actuator web endpoint 'loggers'
+2020-01-24 14:10:20.763 [http-nio-8080-exec-10] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/vnd.spring-boot.actuator.v2+json', given [application/vnd.spring-boot.actuator.v2+json, application/vnd.spring-boot.actuator.v1+json, application/json] and supported [application/vnd.spring-boot.actuator.v2+json, application/json]
+2020-01-24 14:10:20.764 [http-nio-8080-exec-10] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{levels=[OFF, ERROR, WARN, INFO, DEBUG, TRACE], loggers={ROOT=org.springframework.boot.actuate.loggi (truncated)...]
+2020-01-24 14:10:20.764 [http-nio-8080-exec-10] DEBUG o.s.security.web.header.writers.HstsHeaderWriter - Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@7b95e283
+2020-01-24 14:10:20.764 [http-nio-8080-exec-10] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession.
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.springframework.web.servlet.DispatcherServlet - Completed 200 OK
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG o.s.security.web.access.ExceptionTranslationFilter - Chain processed normally
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG o.s.s.web.context.SecurityContextPersistenceFilter - SecurityContextHolder now cleared, as request processing completed
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.net.SocketWrapperBase - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]], Read from buffer: [0]
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.net.NioEndpoint - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]], Read direct from socket: [0]
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11Processor - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]], Status in: [OPEN_READ], State out: [OPEN]
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.apache.coyote.http11.Http11NioProtocol - Pushed Processor [org.apache.coyote.http11.Http11Processor@3efe76fd]
+2020-01-24 14:10:20.765 [http-nio-8080-exec-10] DEBUG org.apache.tomcat.util.net.NioEndpoint - Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@231c8232:org.apache.tomcat.util.net.NioChannel@6c01cb0f:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55848]]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol - Processing socket [org.apache.tomcat.util.net.NioChannel@1c9a850d:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55842]] with status [OPEN_READ]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol - Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@1c9a850d:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55842]]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol - Popped processor [org.apache.coyote.http11.Http11Processor@3efe76fd] from cache
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.tomcat.util.net.SocketWrapperBase - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@547f5b15:org.apache.tomcat.util.net.NioChannel@1c9a850d:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55842]], Read from buffer: [0]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.tomcat.util.net.NioEndpoint - Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@547f5b15:org.apache.tomcat.util.net.NioChannel@1c9a850d:java.nio.channels.SocketChannel[connected local=/192.168.8.1:8080 remote=/192.168.8.1:55842]], Read direct from socket: [597]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.coyote.http11.Http11InputBuffer - Received [POST /actuator/loggers/ROOT HTTP/1.1
+host: PC-i7nv2070:8080
+referer: http://pc-i7nv2070:9090/instances/e4b6a308e26e/loggers
+content-length: 26
+accept-language: zh-CN,zh;q=0.9
+origin: http://pc-i7nv2070:9090
+x-requested-with: XMLHttpRequest
+accept-encoding: gzip, deflate
+Content-Type: application/json;charset=UTF-8
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+accept: application/vnd.spring-boot.actuator.v2+json,application/vnd.spring-boot.actuator.v1+json,application/json
+
+{"configuredLevel":"INFO"}]
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG o.apache.catalina.authenticator.AuthenticatorBase - Security checking request POST /actuator/loggers/ROOT
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.apache.catalina.realm.RealmBase -   No applicable constraints defined
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG o.apache.catalina.authenticator.AuthenticatorBase - Not subject to any constraint
+2020-01-24 14:10:21.403 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 1 of 10 in additional filter chain; firing Filter: 'WebAsyncManagerIntegrationFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 2 of 10 in additional filter chain; firing Filter: 'SecurityContextPersistenceFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - No HttpSession currently exists
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.w.c.HttpSessionSecurityContextRepository - No SecurityContext was available from the HttpSession: null. A new one will be created.
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 3 of 10 in additional filter chain; firing Filter: 'HeaderWriterFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 4 of 10 in additional filter chain; firing Filter: 'LogoutFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', GET]
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'POST /actuator/loggers/ROOT' doesn't match 'GET /logout'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', POST]
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Checking match of request : '/actuator/loggers/ROOT'; against '/logout'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', PUT]
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'POST /actuator/loggers/ROOT' doesn't match 'PUT /logout'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - Trying to match using Ant [pattern='/logout', DELETE]
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.web.util.matcher.AntPathRequestMatcher - Request 'POST /actuator/loggers/ROOT' doesn't match 'DELETE /logout'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.security.web.util.matcher.OrRequestMatcher - No matches found
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 5 of 10 in additional filter chain; firing Filter: 'RequestCacheAwareFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.web.savedrequest.HttpSessionRequestCache - saved request doesn't match
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 6 of 10 in additional filter chain; firing Filter: 'SecurityContextHolderAwareRequestFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 7 of 10 in additional filter chain; firing Filter: 'AnonymousAuthenticationFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Populated SecurityContextHolder with anonymous token: 'org.springframework.security.authentication.AnonymousAuthenticationToken@17848358: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@0: RemoteIpAddress: 192.168.8.1; SessionId: null; Granted Authorities: ROLE_ANONYMOUS'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 8 of 10 in additional filter chain; firing Filter: 'SessionManagementFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 9 of 10 in additional filter chain; firing Filter: 'ExceptionTranslationFilter'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT at position 10 of 10 in additional filter chain; firing Filter: 'FilterSecurityInterceptor'
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Secure object: FilterInvocation: URL: /actuator/loggers/ROOT; Attributes: [permitAll]
+2020-01-24 14:10:21.404 [http-nio-8080-exec-1] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Previously Authenticated: org.springframework.security.authentication.AnonymousAuthenticationToken@17848358: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@0: RemoteIpAddress: 192.168.8.1; SessionId: null; Granted Authorities: ROLE_ANONYMOUS
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG o.s.security.access.vote.AffirmativeBased - Voter: org.springframework.security.web.access.expression.WebExpressionVoter@20e7746, returned: 1
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - Authorization successful
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG o.s.s.w.access.intercept.FilterSecurityInterceptor - RunAsManager did not change Authentication object
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG org.springframework.security.web.FilterChainProxy - /actuator/loggers/ROOT reached end of additional filter chain; proceeding with original chain
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG org.apache.tomcat.util.http.Parameters - Set encoding to UTF-8
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet - POST "/actuator/loggers/ROOT", parameters={}
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG o.s.b.a.e.web.servlet.WebMvcEndpointHandlerMapping - Mapped to Actuator web endpoint 'loggers-name'
+2020-01-24 14:10:21.405 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [{configuredLevel=INFO}]

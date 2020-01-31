@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.lp</groupId>
+  <artifactId>spring-boot-cloud</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>spring-boot-demo</module>
+    <module>spring-boot-admin</module>
+    <module>spring-cloud-rabbitmq</module>
+    <module>rabbitmq-direct-provider</module>
+    <module>rabbitmq-direct-consumer</module>
+    <module>rabiitmq-topic-consummer</module>
+    <module>rabiitmq-topic-producter</module>
+    <module>rabiitmq-fanout-consummer</module>
+    <module>rabiitmq-fanout-producter</module>
+    <module>rabiitmq-durable-drect-consummer</module>
+    <module>rabiitmq-durable-drect-producter</module>
+    <module>rabiitmq-ack-drect-consummer</module>
+    <module>rabiitmq-ack-drect-producter</module>
+    <module>spring-cloud-eureka-server</module>
+    <module>spring-cloud-eureka-server-ha</module>
+    <module>spring-cloud-eureka-provider</module>
+    <module>spring-cloud-eureka-consummer</module>
+    <module>spring-cloud-eureka-ribbon-provider</module>
+    <module>spring-cloud-eureka-ribbon-consummer</module>
+    <module>spring-cloud-eureka-ribbon-provider2</module>
+    <module>spring-cloud-eureka-feign-consummer</module>
+    <module>spring-cloud-eureka-feignconfig-consumer</module>
+    <module>spring-cloud-eureka-hystrix-consumer</module>
+    <module>spring-cloud-eureka-feigen-htstrix-consumer</module>
+    <module>spring-cloud-eureka-feigen-htstrix-factory-consumer</module>
+    <module>zpi-geteway-zuul</module>
+    <module>zpi-geteway-zuul-fallback</module>
+    <module>zpi-geteway-zuul-filter</module>
+    <module>config-server</module>
+    <module>config-server-client-test</module>
+    <module>config-server-rabbitmq-bus</module>
+    <module>rabbitmq-stream-consumer-demo</module>
+    <module>rabbitmq-stream-producter-demo</module>
+    <module>rabbitmq-stream-consumer-Interface</module>
+    <module>rabbitmq-stream-producter-Interface</module>
+    <module>rabbitmq-stream-consumer-Interface2</module>
+    <module>rabbitmq-stream-consumer-Interface3</module>
+    <module>zipkin-server</module>
+    <module>zipkin-client</module>
+  </modules>
+
+  <name>Maven</name>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>2.2.4.RELEASE</version>
+  </parent>
+
+  <distributionManagement>
+    <repository>
+      <id>nexus</id>
+      <name>Releases</name>
+      <url>http://localhost:8091/nexus/content/repositories/releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>nexus</id>
+      <name>Snapshot</name>
+      <url>http://localhost:8091/nexus/content/repositories/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.8</java.version>
+  </properties>
+
+  <build>
+    <resources>
+      <resource>
+        <directory>src/main/java</directory>
+        <includes>
+          <include>**/*.xml</include>
+        </includes>
+      </resource>
+      <resource>
+        <directory>src/main/resources</directory>
+        <includes>
+          <include>**/*.xml</include>
+          <include>**/*.properties</include>
+        </includes>
+      </resource>
+    </resources>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-maven-plugin</artifactId>
+        </plugin>
+        <plugin>
+          <groupId>org.mybatis.generator</groupId>
+          <artifactId>mybatis-generator-maven-plugin</artifactId>
+          <version>1.3.7</version>
+          <configuration>
+            <overwrite>true</overwrite>
+            <configurationFile>src/main/resources/generator/generatorConfig.xml</configurationFile>
+          </configuration>
+        </plugin>
+
+      </plugins>
+    </pluginManagement>
+  </build>
+
+</project>
