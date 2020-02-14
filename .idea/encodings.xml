@@ -36,6 +36,8 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server-ha" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkin-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zpi-geteway-zuul" charset="UTF-8" />

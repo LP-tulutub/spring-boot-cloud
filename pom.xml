@@ -48,6 +48,8 @@
     <module>rabbitmq-stream-consumer-Interface3</module>
     <module>zipkin-server</module>
     <module>zipkin-client</module>
+    <module>spring-cloud-zookeeper-provider</module>
+    <module>spring-cloud-zookeeper-consumer</module>
   </modules>
 
   <name>Maven</name>
