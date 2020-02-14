@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public interface FeignInterface {
 
     @RequestMapping(value="/test",method= RequestMethod.GET)
-    public String test();
+    String test();
 
 
 }
